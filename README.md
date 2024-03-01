@@ -28,9 +28,15 @@
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/2.png)
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/1.png)
 
+#
+> LethalLevelLoader (0.4.0 and higher)
+> LethalExpansion (0.3.5 and lower)
+
 ## Special thanks
 
 Thank you to DarkiNet for the icon for the mod.
 
 #
 ### My discord - tolian
+
+
