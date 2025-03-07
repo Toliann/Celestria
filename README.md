@@ -6,7 +6,7 @@
 # New Moon: Celestria
 >DESIGNATION: 9-Celestria
 
->RISK LEVEL: S
+>RISK LEVEL: S-
 
 >POPULATION: Officially classified as uninhabited, yet occasional signals hint at a hidden presence.
 
@@ -21,12 +21,15 @@
 
 >POSSIBLE WEATHER: DustyCloud, Foggy, Eclipsed
 
->ROUTING COST: 650
+>ROUTING COST: 600
 
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/2.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Celestria/main/screenshot/2.png)
+
+#
+> Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
 
 #
 > LethalLevelLoader (0.4.0 and higher)
@@ -34,9 +37,8 @@
 
 ## Special thanks
 
-Thank you to DarkiNet for the icon for the mod.
+- Special thanks to **DarkiNet** for the icon for the mod    
 
 #
 ### My discord - tolian
-
-
+- My discord server [Tolian Serv](https://discord.gg/ybjPfxCKZX)
